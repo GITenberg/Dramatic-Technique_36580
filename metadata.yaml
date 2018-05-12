@@ -1,0 +1,28 @@
+_repo: Dramatic-Technique_36580
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baker, George Pierce
+    alias: Baker, George P. (George Pierce)
+    birthdate: 1866
+    deathdate: 1935
+    gutenberg_agent_id: '38362'
+    url: http://www.gutenberg.org/2009/agents/38362
+description: ''
+gutenberg_issued: '2011-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36580'
+  lccn: '19006514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama -- Technique'
+- !lcc 'PN'
+title: Dramatic Technique
+url: http://www.gutenberg.org/ebooks/36580
